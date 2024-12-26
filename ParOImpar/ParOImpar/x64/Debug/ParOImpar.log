@@ -1,0 +1,4 @@
+﻿  ParOImpar.cpp
+C:\Users\pc\Desktop\ParOImpar\ParOImpar\ParOImpar.cpp(125,34): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\pc\Desktop\ParOImpar\ParOImpar\ParOImpar.cpp(156,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  ParOImpar.vcxproj -> C:\Users\pc\Desktop\ParOImpar\x64\Debug\ParOImpar.exe
